@@ -2,7 +2,7 @@
 
 Challenge to analyze and report on Heroes of Pymoli player demographics and purchasing data to provide meaningful insights.
 
-![Fantasy](HeroesOfPymoli/Images/Fantasy.png)
+![Fantasy](HeroesOfPymoli/images/Fantasy.png)
 
 ## Expected Output
 
