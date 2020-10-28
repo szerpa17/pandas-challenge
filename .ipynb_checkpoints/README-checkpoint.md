@@ -1,6 +1,8 @@
 # Pandas Challenge
 
-Challenge to analyze and report on player demographics and purchasing data to provide meaningful insights.
+Challenge to analyze and report on Heroes of Pymoli player demographics and purchasing data to provide meaningful insights.
+
+![Fantasy](HeroesOfPymoli/Images/Fantasy.png)
 
 ## Expected Output
 
@@ -63,8 +65,14 @@ Challenge to analyze and report on player demographics and purchasing data to pr
   * Item Price
   * Total Purchase Value
 
-## Results: 
+## Results:
+Dataframe outputs may be found in the [HeroesOfPymoli.ipynb](https://github.com/szerpa17/pandas-challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli.ipynb) file.
 
-### Analysis:
+## Findings:
+* Males made up the majority of players (at approximately 84 percent) and also made up the majority of purchases (652 out of the 780 purchases, or 84 percent of purchases). This suggests that the game appeals more to male players.
+* Female players spent 18 cents more on average per purchase when compared to male players. The average total purchase per person for females was also higher than males by 40 cents, suggesting that they may purchase more expensive in-game items.
+* The largest group of players by age are in the 20-24 age group (approximately 45 percent of all players). This is also the same group that has contributed the most to the game's total revenue. The game and in-game items therefore appeal the most to this age group.
+* There may be more earning potential within the 35-39 age group that has the highest average purchase price (3.60) as well as the highest average total purchase per person (4.76).
+
 
 
