@@ -2,8 +2,15 @@
 
 Challenge to analyze and report on Heroes of Pymoli player demographics and purchasing data to provide meaningful insights.
 
+Dataframe outputs may be found in the [HeroesOfPymoli.ipynb](https://github.com/szerpa17/pandas-challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli.ipynb) file.
+
 ![Fantasy](HeroesOfPymoli/images/Fantasy.png)
 
+## Tools
+* Python
+* Python Packages:
+    * Pandas
+    
 ## Expected Output
 
 ### Player Count
@@ -64,9 +71,6 @@ Challenge to analyze and report on Heroes of Pymoli player demographics and purc
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-## Results:
-Dataframe outputs may be found in the [HeroesOfPymoli.ipynb](https://github.com/szerpa17/pandas-challenge/blob/master/HeroesOfPymoli/HeroesOfPymoli.ipynb) file.
 
 ## Findings:
 * Males made up the majority of players (at approximately 84 percent) and also made up the majority of purchases (652 out of the 780 purchases, or 84 percent of purchases). This suggests that the game appeals more to male players.
